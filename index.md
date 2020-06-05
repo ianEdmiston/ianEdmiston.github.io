@@ -9,6 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![FullSizeRender](https://user-images.githubusercontent.com/66488116/83917179-6e65c700-a744-11ea-9870-4fb3b4e39ce4.jpg)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### About Me
+
+
+## Current Events in the Greater Charlotte Area
+[Charlotte Agenda](https://www.charlotteagenda.com/events/)
+[Carolina Panthers Football Schedule](https://www.panthers.com/schedule/)
+
 ```markdown
 Syntax highlighted code block
 
