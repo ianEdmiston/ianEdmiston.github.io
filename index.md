@@ -1,11 +1,6 @@
 ## Welcome to my website!
 
-#### If you found this you can go Suck a Peen 
-
-
-### I-Bone
 ![FullSizeRender](https://user-images.githubusercontent.com/66488116/83917179-6e65c700-a744-11ea-9870-4fb3b4e39ce4.jpg)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### About Me
 Before joining Trump International Realty, I worked as a Technology Analyst with Accenture. That position was heavily based on developing strong client relationships. Prior to Accenture I worked for a local engineering firm, Corvid Technologies, where I dealt with contracts and accounting. Once I realized he wanted to focus my career on establishing good relationships, I knew I wanted to steer my career towards real estate. I intend to continue establishing great client relationships by focusing on their major life moments of real estate and aiding them in a smooth transaction. 
