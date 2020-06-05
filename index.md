@@ -1,8 +1,6 @@
 ## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/ianEdmiston/ianEdmiston.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### If you found this you can go Suck a Peen 
 
 
 ### I-Bone
@@ -10,8 +8,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### About Me
+Before joining Trump International Realty, I worked as a Technology Analyst with Accenture. That position was heavily based on developing strong client relationships. Prior to Accenture I worked for a local engineering firm, Corvid Technologies, where I dealt with contracts and accounting. Once I realized he wanted to focus my career on establishing good relationships, I knew I wanted to steer my career towards real estate. I intend to continue establishing great client relationships by focusing on their major life moments of real estate and aiding them in a smooth transaction. 
 
-#### Current Events in the Greater Charlotte Area
+I have deep roots in Mooresville, NC with my family living here for 4 generations and growing up in the area with my 4 siblings and parents. These roots are what got me initially interested in real estate. He attended Fordham University in the Bronx, NY where I played baseball for 4 years and majored in Finance. I am still continuing my education and have nearly completed his Master’s Degree in Analytics from Northeastern University. I intend to use this to help me better understand market trends to better assist clients.
+
+In November 2019 I married his wife, Morgan, and they reside in The Point neighborhood in Mooresville. Recently moving from uptown Charlotte, I have an appreciation for both the relaxed nature of Lake Norman and the hustle and bustle of the city. Both have so much to offer! Some of my favorite hobbies include golfing, trying out a new restaurant, and going to Hornets basketball games and Panthers football games.
+
+#### Get to know the Greater Charlotte Area
 
 [Charlotte Agenda](https://www.charlotteagenda.com/events/)
 
@@ -20,6 +23,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 [Charlotte Hornets Basketball Schedule](https://www.nba.com/hornets/schedule)
 
 [Charlotte Knights Baseball Schedule](https://www.milb.com/charlotte-knights/schedule/2020-06)
+
+[Charlotte Beer Guide](https://www.charlotteagenda.com/31429/breweries-in-charlotte/)
 
 ```markdown
 Syntax highlighted code block
