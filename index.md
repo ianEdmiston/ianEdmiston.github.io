@@ -9,7 +9,6 @@ I have deep roots in Mooresville, NC with my family living here for 4 generation
 
 In November 2019 I married my wife, Morgan, and we reside in The Point neighborhood in Mooresville. Recently moving from uptown Charlotte, I have an appreciation for both the relaxed nature of Lake Norman and the hustle and bustle of the city. Both have so much to offer! Some of my favorite hobbies include golfing, trying out a new restaurant, and going to Hornets basketball games and Panthers football games.
 
-[![Alt text](https://img.youtube.com/vi/nGeKSiCQkPw/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 
 #### Get to know the Greater Charlotte Area
