@@ -1,5 +1,5 @@
 ## Welcome to my website!
-
+---?image=/Users/IEdmiston/Desktop/RealEstate/Headshots/FullSizeRender.jpg
 ![FullSizeRender](https://user-images.githubusercontent.com/66488116/83917179-6e65c700-a744-11ea-9870-4fb3b4e39ce4.jpg)
 
 ### About Me
