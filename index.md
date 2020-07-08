@@ -7,7 +7,7 @@ Before joining Trump International Realty, I worked as a Technology Analyst with
 
 I have deep roots in Mooresville, NC with my family living here for 4 generations and growing up in the area with my 4 siblings and parents. These roots are what got me initially interested in real estate. I attended Fordham University in the Bronx, NY where I played baseball for 4 years and majored in Finance. I am still continuing my education and have nearly completed my Master’s Degree in Analytics from Northeastern University. I intend to use this to help me better understand market trends to better assist clients.
 
-In November 2019 I married my wife, Morgan, and we reside in The Point neighborhood in Mooresville. Recently moving from uptown Charlotte, I have an appreciation for both the relaxed nature of Lake Norman and the hustle and bustle of the city. Both have so much to offer! Some of my favorite hobbies include golfing, trying out a new restaurant, and going to Hornets basketball games and Panthers football games.
+In November 2019 I married the love of my life, Morgan, and we reside in The Point neighborhood in Mooresville. Recently moving from uptown Charlotte, I have an appreciation for both the relaxed nature of Lake Norman and the hustle and bustle of the city. Both have so much to offer! Some of my favorite hobbies include golfing, trying out a new restaurant, and going to Hornets basketball games and Panthers football games.
 
 
 
