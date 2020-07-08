@@ -35,4 +35,4 @@ In November 2019 I married the love of my life, Morgan, and we reside in The Poi
 #### Check me out on:
 [Facebook](https://www.facebook.com/pages/category/Real-Estate/Ian-Edmiston-Real-Estate-BrokerRealtor-100373275029109/) 
 
-Instagram: @ianedmiston_realtor
+[Instagram](https://www.instagram.com/ianedmiston_realtor/) @ianedmiston_realtor
